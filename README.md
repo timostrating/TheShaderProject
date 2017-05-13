@@ -1,7 +1,7 @@
 # TheShaderProject
 
 ## TODO
-- [ ] Adding all team members to git 
+- [x] Adding all team members to git 
 - [ ] long introduction https://www.youtube.com/watch?v=3penhrrKCYg
 - [ ] shaders 101 https://www.youtube.com/watch?v=T-HXmQAMhG0
 - [ ] shaders 102 https://www.youtube.com/watch?v=kpBnIAPtsj8
